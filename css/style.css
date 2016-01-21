@@ -118,25 +118,8 @@ nav {
   color: #FF8900;
   font-family: 'IM Fell French Canon', serif;
  	max-width: 100%;
+ 	position: relative;
  }
-
-.profilepicture p1 {
-	position: absolute;
-	top: 10.5em;
-	left: 10em;
-}
-
-.profilepicture p2 {
-	position: absolute;
-	top: 11.60em;
-	left: 12em;
-}
-
-.profilepicture p3 {
-	position: absolute;
-	top: 12.5em;
-	left: 10.30em;
-}
 
 
 
