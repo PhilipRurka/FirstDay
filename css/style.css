@@ -1,8 +1,32 @@
 /************************************************************
 GENERAL
 ************************************************************/
+/*   3     #    */
+
+
 body {
-	background-color: #FFEAD2
+	background-color: #FFEAD2;
+}
+
+nav {
+	background-color: #FFDFB9;
+	list-style-type: none;
+}
+
+nav li {
+	display: inline-block;
+}
+
+img {
+	max-width: 100%;
+}
+
+.background ul {
+	list-style: none;
+}
+
+ul {
+	list-style: none;
 }
 
 
@@ -10,21 +34,60 @@ body {
 /************************************************************
 PLACEMENT + BORDERS
 ************************************************************/
+/*   3     #    */
+
 
 h1 {
 	text-align: center;
+	margin: 0.25em 0;
+}
+
+nav {
+	text-align: center;;
+	padding: 0;
+	margin: 0 1.75em;
+	border-color: #FFAC4B;
+  border-width: 0.4em;
+  border-style: solid;
+}
+
+nav ul {
+	padding: 0.25em 0;
 	margin: 0;
+}
+
+nav li {
+	margin: 0 1em;
+}
+
+section ul {
+	padding: 0 2.7em 0 2.7em;
 }
 
 
 
+
 /************************************************************
-TEXT APPEARENCE
+TEXT APPEARENCE	
 ************************************************************/
+/*   3     #    */
+
+
+h1 {
+  font-size: 3.5em;
+  font-weight: normal;
+  color: #FFAC4B;
+  font-family: 'IM Fell French Canon', serif;
+}
+
+nav {
+	font-size: 20px;
+}
 
 nav a, nav a :visited {
   color:#000;
-  text-decoration:none
+  text-decoration: none;
+  font-family: 'Linden Hill' , sans-serif;
 }
 
 nav a.selected, nav a:hover {
@@ -33,5 +96,63 @@ nav a.selected, nav a:hover {
 
 footer a {
   color: #17B221;
-  text-decoration:none
+  text-decoration: none;
 }
+
+nav {
+		list-style-type: none;
+}
+
+
+
+
+/************************************************************************************************************************
+																											Contast
+************************************************************************************************************************/
+/*   3     #    */
+
+
+.profilepicture {
+	font-size: 3.5em;
+  font-weight: normal;
+  color: #FF8900;
+  font-family: 'IM Fell French Canon', serif;
+ 	max-width: 100%;
+ }
+
+.profilepicture p1 {
+	position: absolute;
+	top: 10.5em;
+	left: 10em;
+}
+
+.profilepicture p2 {
+	position: absolute;
+	top: 11.60em;
+	left: 12em;
+}
+
+.profilepicture p3 {
+	position: absolute;
+	top: 12.5em;
+	left: 10.30em;
+}
+
+
+
+
+/************************************************************************************************************************
+																									Things About Me
+************************************************************************************************************************/
+/*   3     #    */
+
+
+
+
+
+
+
+/************************************************************************************************************************
+																									Things About Me
+************************************************************************************************************************/
+/*   3     #    */
