@@ -1,11 +1,11 @@
-/************************************************************
+/***********************************************************
 GENERAL
 ************************************************************/
 /*   3     #    */
 
 
 body {
-	background-color: #FFEAD2;
+	background-color: #FFDFBA;
 }
 
 nav {
@@ -87,16 +87,18 @@ nav {
 nav a, nav a :visited {
   color:#000;
   text-decoration: none;
-  font-family: 'Linden Hill' , sans-serif;
+	font-family: 'Old Standard TT', serif;
 }
 
 nav a.selected, nav a:hover {
-	color: #107017;
+	color: #F08101;
 }
 
 footer a {
-  color: #17B221;
+  color: #E1871F;
+  font-family: 'Old Standard TT', serif;
   text-decoration: none;
+  font-size: 1.5em;
 }
 
 nav {
@@ -107,19 +109,88 @@ nav {
 
 
 /************************************************************************************************************************
+																											Footer
+************************************************************************************************************************/
+/*   3     #    */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/************************************************************************************************************************
 																											Contast
 ************************************************************************************************************************/
 /*   3     #    */
 
 
-.profilepicture {
-	font-size: 3.5em;
-  font-weight: normal;
-  color: #FF8900;
-  font-family: 'IM Fell French Canon', serif;
+
+.profile-photo {
+ 	border-radius: 10%;
+ 	display: block;
  	max-width: 100%;
- 	position: relative;
- }
+}
+
+.contact-me {
+	margin: 0 25em 0 0;
+	padding: 0;
+}
+
+.contact-me  a {
+  font-weight: normal;
+ 	text-decoration: none;
+ 	color: #FF8900;
+	font-size: 2em;
+  background-repeat: no-repeat;
+  display: block;
+  padding: 0 0 0 1.25em;
+  margin: 0.3em;
+}
+
+.email {
+  font-family: 'IM Fell French Canon', serif;
+  width: 0em;
+}
+
+.phone {
+	font-family: 'Dancing Script', sans-serif;
+	width: 18.25em;
+}
+
+.contact-me li.email a {
+	background-image: url('../img/email2.png');
+  background-size: 1em auto; 
+}
+
+.contact-me li.phone a {
+	background-image: url('../img/phone1.png');
+	background-size: 1em auto;
+}
 
 
 
@@ -131,6 +202,43 @@ nav {
 
 
 
+.left-group a, .left-group a :visited {
+  color:#FF7C00;
+  text-decoration: none;
+}
+
+.left-group a.selected, .left-group a:hover {
+	color: #000;
+}
+
+
+.left-group {
+text-decoration: none;
+}
+
+.left-group li {
+	font-size: 1.5em;
+	margin: 10px 0;
+}
+
+.left-group a {
+	font-family: 'Alegreya Sans', sans-serif;
+}
+
+
+
+/************************************************************
+Wrhitting
+************************************************************/
+/*   3     #    */
+
+
+
+
+
+
+
+
 
 
 
@@ -138,4 +246,4 @@ nav {
 /************************************************************************************************************************
 																									Things About Me
 ************************************************************************************************************************/
-/*   3     #    */
+/*   3     #    
