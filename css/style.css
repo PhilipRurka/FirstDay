@@ -5,11 +5,14 @@ GENERAL
 
 
 body {
-	background-color: #FFDFBA;
+	background: url("../img/bright-orange-pattern-yarkiy-2.jpg");
 }
 
+
+
+
 nav {
-	background-color: #FFDFB9;
+	background: url("../img/Screen Shot 2016-01-25 at 3.18.00 PM.png");
 	list-style-type: none;
 }
 
@@ -86,6 +89,7 @@ h1 {
 
 nav {
 	font-size: 20px;
+	font-weight: bold;
 }
 
 nav a, nav a :visited {
@@ -95,7 +99,7 @@ nav a, nav a :visited {
 }
 
 nav a.selected, nav a:hover {
-	color: #F08101;
+	color: #EF3C00;
 }
 
 footer a {
@@ -124,7 +128,8 @@ nav {
 	bottom: 0;
 	width: 100%;
 	height: 6em;
-	background-color: #FFDFBA;
+	background: url("../img/bright-orange-pattern-yarkiy-2.jpg");
+
 }
 
 
@@ -212,6 +217,8 @@ nav {
 
 
 
+
+
 .left-group a, .left-group a :visited {
   color:#FF7C00;
   text-decoration: none;
@@ -242,10 +249,14 @@ nav {
 	float: right;
 	width: 70%;
 	margin: 3em 4% 0 4%;
+/*	background-color: #FF942F;*/
 }
 
 .right-group p {
-	font-family: 'Asap', sans-serif;
+	font-family: Arial, serif;
+	font-weight: 700;
+	font-size: 1.45em;
+	font-style: italic;
 }
 
 
@@ -298,14 +309,15 @@ nav {
 .big-pic {
 	max-width: 100%;
 	margin: -1.2em 0 0 0;
+	
 }
 
 header a, header a :visited {
-  color:#000;
   text-decoration: none;
   font-family: 'Alegreya Sans', sans-serif;
   margin: 0 0.9em;
   font-size: 3em;
+  color: #FFAC4B;
 
 }
 
