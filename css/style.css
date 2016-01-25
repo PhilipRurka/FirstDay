@@ -29,6 +29,10 @@ ul {
 	list-style: none;
 }
 
+.wrapper {
+	margin: 0 0 6em 0;
+}
+
 
 
 /************************************************************
@@ -95,7 +99,7 @@ nav a.selected, nav a:hover {
 }
 
 footer a {
-  color: #E1871F;
+  color: #FF8000;
   font-family: 'Old Standard TT', serif;
   text-decoration: none;
   font-size: 1.5em;
@@ -108,14 +112,20 @@ nav {
 
 
 
+
 /************************************************************************************************************************
-																											Footer
+																												Footer
 ************************************************************************************************************************/
 /*   3     #    */
 
 
-
-
+.unit {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	height: 6em;
+	background-color: #FFDFBA;
+}
 
 
 
@@ -213,7 +223,10 @@ nav {
 
 
 .left-group {
-text-decoration: none;
+	text-decoration: none;
+	float: left;
+	width: 10%;
+	margin: 4em 0 0 0;
 }
 
 .left-group li {
@@ -225,14 +238,80 @@ text-decoration: none;
 	font-family: 'Alegreya Sans', sans-serif;
 }
 
+.right-group {
+	float: right;
+	width: 70%;
+	margin: 3em 4% 0 4%;
+}
+
+.right-group p {
+	font-family: 'Asap', sans-serif;
+}
+
+
+
+
+
+/************************************************************************************************************************
+												Favourite Moments
+************************************************************************************************************************/
+/*   3     #    */
+
+.gallery {
+	margin: -1.4em 0 0 0;
+	padding: 0;
+}
+
+.gallery li {
+	float: left;
+	margin: 2.5%;
+	width: 45%;
+	background-color: #FFD3A0;
+
+}
+
+.click-pic {
+	text-align: center;
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size: 1.5em;
+}
+
+.gallery a, .gallery a :visited {
+  color:#000;
+  text-decoration: none;
+  font-family: "Asap", sans-serif;
+}
+
+.gallery a.selected, .gallery a:hover {
+	color: #000;
+}
+
 
 
 /************************************************************
-Wrhitting
+					Larger Gallery
 ************************************************************/
 /*   3     #    */
 
 
+
+.big-pic {
+	max-width: 100%;
+	margin: -1.2em 0 0 0;
+}
+
+header a, header a :visited {
+  color:#000;
+  text-decoration: none;
+  font-family: 'Alegreya Sans', sans-serif;
+  margin: 0 0.9em;
+  font-size: 3em;
+
+}
+
+header a.selected, header a:hover {
+	color: #000;
+}
 
 
 
