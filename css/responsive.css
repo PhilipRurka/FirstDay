@@ -4,49 +4,69 @@
 /*   3     #    */
 
 
-/*
-@media screen and (min-width: 755px) {
+
+@media screen and (max-width: 800px) {
 	body {
 		background-color: green;
 	}
 	.right-group {
+		float: none;
+		width: auto;
+		margin: 0 1.75em
 
 	}
 	.left-group {
+		width: auto;
+		float: none;
+		margin: 0.9em 0 -1em 0;
+		list-style-type: none;
+		text-align: center;
+	}
 
+	.left-group ul {
+		list-style-type: none;
+	}
+
+	.left-group li {
+		display: inline-block;
+		float: none;
+		margin: 0 0.4em;
 	}
 }
 
-@media screen and (min-width: 755px) {
+
+@media screen and (max-width: 1150px) {
+	.nav-pic {
+		margin: -10px 38px -28px 0;
+	}
+
+	.nav-pic li {
+		display: list-item;
+		width: 100%;
+		margin: 0;
+		padding: 0;
+	}
+
+}
+
+
+
+
+
+
+/*@media screen and (min-width: 755px) {
 	body {
+		background: none;
 		background-color: green;
 	}
 }
+*/
 
-@media screen and (min-width: 955px) {
+
+/*@media screen and (min-width: 1150px) {
 	body {
-		background-color: yellow;
-	}
-	.right-group {
-		width: 75%
-	}
-	.left-group {
-		width: 5%
-	}
-
-}
-
-@media screen and (min-width: 1155px) {
-	body {
+		background: none;
 		background-color: brown;
-	}
-	.right-group {
-		width: 
-	}
-	.left-group {
-		width: 
-	}
-
 }
 
 @media screen and (min-width: 1355px) {
