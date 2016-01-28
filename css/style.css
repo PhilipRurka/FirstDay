@@ -252,6 +252,7 @@ nav {
 
 .left-group a {
 	font-family: 'Alegreya Sans', sans-serif;
+	font-size: 37px;
 }
 
 .right-group {
@@ -333,16 +334,6 @@ nav {
 	font-family: 'Cantarell', sans-serif;
 }
 
-.gallery li {
-	float: left;
-	margin: 2.5%;
-	width: 45%;
-}
-
-.gallery li:nth-child(2n) {
-	clear: left;
-}
-
 .click-pic {
 	text-align: center;
 	font-family: 'Alegreya Sans', sans-serif;
@@ -363,6 +354,9 @@ nav {
 .gallery p {
 	text-align: center;
 	background-color: #FFD3A0;
+	font-family: Arial, serif;
+	font-style: italic;
+	font-size: 20px;
 }
 
 
@@ -377,7 +371,13 @@ nav {
 .big-pic {
 	max-width: 100%;
 	margin: -1.2em 0 0 0;
-	
+}
+
+.big-pic p {
+	background-color: #FFD3A0;
+	font-size: 24px;
+	font-family: Arial, serif;
+	font-style: italic;
 }
 
 header a, header a :visited {
