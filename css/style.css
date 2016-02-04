@@ -138,7 +138,6 @@ nav {
 	width: 100%;
 	height: 6em;
 	background: url("../img/bright-orange-pattern-yarkiy-2.jpg");
-
 }
 
 
@@ -258,7 +257,8 @@ nav {
 .right-group {
 	float: left;
 	width: 70%;
-	margin: 3em 4% 0 4%;
+	margin: 3em 4% 6em 4%;
+	padding: 0;
 	border-right: 0.3em solid;
 	border-left:  0.3em solid;
 	border-color: #FFAC4B;
