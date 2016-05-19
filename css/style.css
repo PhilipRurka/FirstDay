@@ -207,7 +207,7 @@ nav {
 
 .contact-me li.email a {
 	background-image: url('../img/email2.png');
-  background-size: 1em auto; 
+  	background-size: 1em auto; 
 }
 
 .contact-me li.phone a {

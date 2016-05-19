@@ -1,0 +1,448 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"border-w",
+				"border-width"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"bo",
+				"border-top"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"bl",
+				"inline-block"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"d",
+				"disc"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"backgroud",
+				"background-position"
+			],
+			[
+				"BAA",
+				"background-image"
+			],
+			[
+				"backgrounD",
+				"background-image"
+			],
+			[
+				"he",
+				"min-height"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"c",
+				"table-cell"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"de",
+				"text-decoration"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"cen",
+				"align-content"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"posit",
+				"position"
+			],
+			[
+				"positio",
+				"background-position"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"co",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install pac",
+		"selected_items":
+		[
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"paga",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/DefFreeman/Desktop/Sub-Projects/Third-Day/css/style.css",
+		"/Users/DefFreeman/Desktop/Sub-Projects/Third-Day/index.html",
+		"/Users/DefFreeman/Desktop/Sub-Projects/Third-Day/css/normalize.css",
+		"/Users/DefFreeman/Desktop/Sub-Projects/Third-Day/css/responsive.css",
+		"/Users/DefFreeman/Desktop/Sub-Projects/Third-Day/responsive.css",
+		"/Users/DefFreeman/Desktop/Sub-Projects/Second-Day/nav2.html",
+		"/Users/DefFreeman/Desktop/Sub-Projects/Second-Day/nav1.html",
+		"/Users/DefFreeman/Desktop/Sub-Projects/Second-Day/CSS/responsive.css",
+		"/Users/DefFreeman/Desktop/Sub-Projects/Second-Day/CSS/normalize.css",
+		"/Users/DefFreeman/Desktop/Web/index.html",
+		"/Users/DefFreeman/Desktop/Sub-Projects/Second-Day/CSS",
+		"/Users/DefFreeman/Desktop/Web/FMP/Beach-Jerrica.html",
+		"/Users/DefFreeman/Desktop/Web/css/style.css",
+		"/Users/DefFreeman/Desktop/Web/css/responsive.css",
+		"/Users/DefFreeman/Desktop/Sub Projects/Sub-Projects",
+		"/Users/DefFreeman/Desktop/Web/Favourite+Things.html",
+		"/Users/DefFreeman/Desktop/Web/FMP/Blanket-fort.html",
+		"/Users/DefFreeman/Desktop/Web/FMP/chicken-chase.html",
+		"/Users/DefFreeman/Desktop/Web/FMP/falls-friends.html",
+		"/Users/DefFreeman/Desktop/Web/FMP/fallsbrook.html",
+		"/Users/DefFreeman/Desktop/Web/FMP/first-wrap.html",
+		"/Users/DefFreeman/Desktop/Web/FMP/Fundy-Sylvy.html",
+		"/Users/DefFreeman/Desktop/Web/FMP/Geo-Adam.html",
+		"/Users/DefFreeman/Desktop/Web/FMP/Lone-picnic.html",
+		"/Users/DefFreeman/Desktop/Web/FMP/4-in-tent.html",
+		"/Users/DefFreeman/Desktop/Web/FMP/messy-hair.html",
+		"/Users/DefFreeman/Desktop/Web/FMP/Walk-Future.html",
+		"/Users/DefFreeman/Desktop/Web/geeky.html",
+		"/Users/DefFreeman/Desktop/Web/quotes.html",
+		"/Users/DefFreeman/Desktop/Web/writting.html",
+		"/Users/DefFreeman/Desktop/Web/nerdy.html",
+		"/Users/DefFreeman/Desktop/Web/Things+About+Me.html",
+		"/Users/DefFreeman/Desktop/Web/contact.html",
+		"/Users/DefFreeman/Desktop/Web/music.html",
+		"/Users/DefFreeman/Desktop/Web/bucket-list.html",
+		"/Users/DefFreeman/Desktop/Web/activity.html",
+		"/Users/DefFreeman/Desktop/Web/img/Armlength/Beach-Jerrica.jpg",
+		"/Users/DefFreeman/Desktop/Web/img/Armlength/4-in-tent.jpg",
+		"/Users/DefFreeman/Desktop/Web/FMP/big-pic-1.html",
+		"/Users/DefFreeman/Desktop/Web/FMP/big-pic-2.html",
+		"/Users/DefFreeman/Desktop/Web/FMP/big-pic-3.html",
+		"/Users/DefFreeman/Desktop/Web/FMP/big-pic-4.html",
+		"/Users/DefFreeman/Desktop/Web/FMP/big-pic-5.html",
+		"/Users/DefFreeman/Desktop/Web/FMP/big-pic-6.html",
+		"/Users/DefFreeman/Desktop/Web/FMP/big-pic-7.html",
+		"/Users/DefFreeman/Desktop/Web/FMP/big-pic-8.html",
+		"/Users/DefFreeman/Desktop/Web/big-pic-1.html",
+		"/Users/DefFreeman/Desktop/Web/img/holding-the-sun-ptica-zakat.jpg",
+		"/Users/DefFreeman/Desktop/Web/css/normalize.css",
+		"/Users/DefFreeman/Desktop/Web/something2.html",
+		"/Users/DefFreeman/Desktop/Web/something4.html",
+		"/Users/DefFreeman/Desktop/Web/js/script.js",
+		"/Users/DefFreeman/Desktop/Web/something2",
+		"/Users/DefFreeman/Desktop/Web/Page/something2.html",
+		"/Users/DefFreeman/Desktop/Web/Page/something4.html",
+		"/Users/DefFreeman/Desktop/Web/Page/something4",
+		"/Users/DefFreeman/Desktop/Web/Page/something2",
+		"/Users/DefFreeman/Desktop/Treck Across Canada 2013 Calgary 7.mp4",
+		"/Users/DefFreeman/Desktop/normalize.css"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/DefFreeman/Desktop/Sub-Projects/Web",
+			"/Users/DefFreeman/Desktop/"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"id",
+			"=\"\">",
+			"8em",
+			"colo",
+			"unite"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Second-Day/CSS/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
